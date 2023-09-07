@@ -661,3 +661,18 @@ h1 {
         margin: auto;
     }
 }
+@media screen and (max-width: 380px) {
+    .box-2 h1 {
+        font-size: 3em;
+    }
+    .flav-title {
+        font-size: 4em;
+        /* text-align: center; */
+    }
+    .story-title {
+        text-align: center;
+    }
+    .story-2023 {
+        text-align: center;
+    }
+}
