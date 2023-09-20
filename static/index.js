@@ -1,5 +1,5 @@
 var audio = new Audio("../static/Audios/hd-by-gvh-sounds.mp3")
-// var img = document.getElementsByClassName("f");
+var log = document.getElementsByClassName('logo');
 
 function play() {
     audio.play();
