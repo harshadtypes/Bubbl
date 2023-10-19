@@ -305,14 +305,16 @@ h1 {
 .flav-explore {
     text-align: center;
     padding: 0px;
-    margin: 0px;
+    margin: 0px 0px 200px 0px;
     font-size: 24px;
     font-family: 'Inter', sans-serif;
     font-weight: 300;
 }
 .flav-desc {
     text-align: center;
-    font-family: 'Inter', sans-serif;
+    font-family: 'Petit Formal Script', cursive;
+    font-size: x-large;
+    margin-top: 50px;
     /* font-size: 16px; */
     /* font-weight: 600; */
     /* 0% {
@@ -347,16 +349,16 @@ h1 {
     /* } */
     /* display: none; */
 }
-.white-desc {
+/* .white-desc {
     text-shadow: 
     -1xp 0px 0px black,
     1xp 0px 0px black,
     0xp -1px 0px black,
     0xp 1px 0px black;
-    color: #ffffff;
-}
+    color: black;
+} */
 .flav-pics {
-    width: 85%;
+    /* width: 85%; */
     height: 60vh;
     margin: auto;
     margin-top: 10vh;
@@ -364,8 +366,11 @@ h1 {
     display: flex; 
     /* flex-flow: row nowrap; */
     align-items: center;
-    justify-content: space-around;
+    justify-content: space-evenly;
 }
+/* .white-desc {
+    display: none;
+} */
 .flav-pics img {
     transition: transform 0.5s;
 }
