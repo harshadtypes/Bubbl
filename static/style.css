@@ -70,7 +70,7 @@ body,html {
 }
 /* CSS FOR HERO SECTION  */
 #hero {
-    background-color: #e1d2e5;
+    background-color: #48ad43;
     /* height: 90vh; */
 }
 .sep-nav {
@@ -671,7 +671,7 @@ h1 {
     }
     .compil {
         display: block;
-        width: 70vw;
+        width: 85vw;
         margin: 10vh auto 10vh auto;
     }
     .nav-container {
@@ -721,7 +721,7 @@ h1 {
     }
     .compil {
         display: block;
-        width: 70vw;
+        width: 85vw;
         margin: 10vh auto 0vh auto;
         padding-bottom: 50px;
     }
