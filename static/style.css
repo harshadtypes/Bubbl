@@ -598,6 +598,11 @@ h1 {
     margin: 10px 0px;
 }
 
+.trademark {
+    display: flex;
+    justify-content: center;
+}
+
 @media screen and (max-width: 1350px) {
     .facts {
         /* overflow-x: scroll; */
